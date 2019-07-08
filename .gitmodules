@@ -1,0 +1,6 @@
+[submodule "sePro-db-service"]
+	path = sePro-db-service
+	url = https://github.com/ghait133/sePro-db-service.git
+[submodule "sePro_docker"]
+	path = sePro_docker
+	url = https://github.com/ghait133/sePro_docker.git
