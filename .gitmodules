@@ -4,9 +4,9 @@
 [submodule "sePro_docker"]
 	path = sePro_docker
 	url = https://github.com/ghait133/sePro_docker.git
-[submodule "sepro-authorization-server"]
-        path = sepro-authorization-server
-        url = https://github.com/ghait133/sepro-authorization-server
 [submodule "sepro-registry-service"]
 	path = sepro-registry-service
 	url = https://github.com/ghait133/sepro-registry-service.git
+[submodule "sepro-ui"]
+	path = sepro-ui
+	url = https://github.com/ghait133/sepro-ui.git
