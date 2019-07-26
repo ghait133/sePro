@@ -16,3 +16,9 @@
 [submodule "sepro-authorization-server"]
 	path = sepro-authorization-server
 	url = https://github.com/ghait133/sepro-authorization-server.git
+[submodule "sepro-user-service"]
+	path = sepro-user-service
+	url = https://github.com/ghait133/sepro-user-service.git
+[submodule "sepro-partner-service"]
+	path = sepro-partner-service
+	url = https://github.com/ghait133/sepro-partner-service.git

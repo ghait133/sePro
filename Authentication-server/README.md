@@ -1,1 +1,0 @@
-# sepro-authorization-server
