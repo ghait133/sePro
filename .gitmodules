@@ -7,3 +7,6 @@
 [submodule "sepro-authorization-server"]
 	path = sepro-authorization-server
 	url = https://github.com/ghait133/sepro-authorization-server.git
+[submodule "sepro-api-getway-service"]
+	path = sepro-api-getway-service
+	url = https://github.com/ghait133/sepro-api-getway-service.git
