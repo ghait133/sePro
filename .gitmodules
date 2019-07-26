@@ -10,3 +10,6 @@
 [submodule "sepro-ui"]
 	path = sepro-ui
 	url = https://github.com/ghait133/sepro-ui.git
+[submodule "sepro-api-getway-service"]
+	path = sepro-api-getway-service
+	url = https://github.com/ghait133/sepro-api-getway-service.git
