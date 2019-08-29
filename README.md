@@ -1,5 +1,4 @@
 # sePro
-Costumer relationship Manager for Service provider ind 
 
 Sepro, kurz für Service Provider ist eine Idee für ein Managementsystem, welches für Dienstleister des Mittelstandes aller Art den Arbeitsalltag durch innovative Technologien erleichtern soll.
 
