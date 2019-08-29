@@ -1,3 +1,6 @@
+[submodule "sepro-customer-service"]
+	path = sepro-customer-service
+	url = https://github.com/ghait133/sepro-customer-service.git
 [submodule "sePro-db-service"]
 	path = sePro-db-service
 	url = https://github.com/ghait133/sePro-db-service.git
