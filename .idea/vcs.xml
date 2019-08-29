@@ -2,7 +2,15 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hairdresser-module" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sePro-db-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sePro_docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sepro-api-getway-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sepro-authorization-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sepro-customer-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sepro-partner-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sepro-registry-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sepro-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sepro-user-service" vcs="Git" />
   </component>
 </project>

@@ -1,25 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfda5c44-4408-424c-9cf3-07b1679316d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/partner-service/src/main/java/com/sepro/partnerservice/dto/PartnerDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/partner-service/src/main/java/com/sepro/partnerservice/service/IPartnerService.java" afterDir="false" />
+    <list default="true" id="ca4daafa-b599-498f-8d71-27d6c970aed1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hairdresser-module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sepro-customer-service" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/config/CorsFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/service/ICustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/magicento.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sepro.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sePro-db-service" beforeDir="false" afterPath="$PROJECT_DIR$/sePro-db-service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sePro-db-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sePro-db-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sePro-db-service/src/main/java/com/sepro/dbservice/config/SecurityConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sePro-db-service/src/main/java/com/sepro/dbservice/security/JwtAuthenticationFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sePro-db-service/src/main/java/com/sepro/dbservice/security/JwtAuthorizationFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sePro-db-service/src/main/java/com/sepro/dbservice/security/JwtProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sePro-db-service/target/classes/com/sepro/dbservice/config/SecurityConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sePro-db-service/target/classes/com/sepro/dbservice/security/JwtAuthenticationFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sePro-db-service/target/classes/com/sepro/dbservice/security/JwtAuthorizationFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sePro-db-service/target/classes/com/sepro/dbservice/security/JwtProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/sePro_docker" beforeDir="false" afterPath="$PROJECT_DIR$/sePro_docker" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sePro_docker/database/database.dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/sePro_docker/database/databasedata.dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sePro_docker/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sePro_docker/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sePro_docker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sePro_docker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-api-getway-service" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-api-getway-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-api-getway-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-api-getway-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-authorization-server" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-authorization-server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-authorization-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-authorization-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/CustomerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/CustomerServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/config/ResourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/config/ResourceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/config/ResourceServerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/config/ResourceServerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/config/WebMvcConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/config/WebMvcConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/dto/CustomerDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/dto/CustomerDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/dto/CustomerGlobalInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/dto/CustomerGlobalInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/dto/CustomerList.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/dto/CustomerList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/dto/PartnerDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/dto/PartnerDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/dto/PartnerList.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/dto/PartnerList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/dto/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/dto/UserDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/entity/Adresse.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/entity/Adresse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/entity/BaseIdEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/entity/BaseIdEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/entity/CustomerPartner.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/entity/CustomerPartner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/error/UserAlreadyExistException.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/error/UserAlreadyExistException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/model/CustomPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/model/CustomPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/repository/AdresseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/repository/AdresseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/repository/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/repository/PartnerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/repository/PartnerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/resource/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/resource/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/resource/CustomerInformationsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/resource/CustomerInformationsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/resource/CustomerRegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/resource/CustomerRegistrationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/resource/PartnerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/resource/PartnerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/service/ICustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/util/CustomAccessTokenConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/util/CustomAccessTokenConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/util/CustomUserAuthenticationConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/util/CustomUserAuthenticationConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/util/GenericResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/util/GenericResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/validation/EmailValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/validation/EmailValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/validation/PasswordConstraintValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/validation/PasswordConstraintValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/validation/PasswordMatches.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/validation/PasswordMatches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/validation/PasswordMatchesValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/validation/PasswordMatchesValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/validation/ValidEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/validation/ValidEmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/validation/ValidPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/validation/ValidPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-customer-service/src/test/java/com/example/customerservice/CustomerServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-customer-service/src/test/java/com/sepro/customerservice/CustomerServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-partner-service" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-partner-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-registry-service" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-registry-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-ui" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-ui/src/app/@core/auth/SeProAuthStrategyOptions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-ui/src/app/@core/auth/seProAuthStrategyOptions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-ui/src/app/@core/auth/seProAuthStrategy.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-ui/src/app/@core/auth/seProAuthStrategy.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-ui/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-ui/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-ui/src/app/pages/customer-modul/customer-core/data/customer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-ui/src/app/pages/customer-modul/customer-core/utils/customer.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-ui/src/app/pages/customer-modul/customer-core/utils/customer.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-ui/src/app/pages/customer-modul/customer.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-ui/src/app/pages/customer-modul/customer.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-ui/src/app/pages/pages-menu.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-ui/src/app/pages/pages-menu.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-ui/src/app/pages/pages-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-ui/src/app/pages/pages-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-ui/src/app/pages/pages.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-ui/src/app/pages/pages.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-user-service" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-user-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-user-service/src/main/java/com/sepro/userservice/config/ResourceServerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-user-service/src/main/java/com/sepro/userservice/config/ResourceServerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-user-service/src/main/java/com/sepro/userservice/dto/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-user-service/src/main/java/com/sepro/userservice/dto/UserDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-user-service/src/main/java/com/sepro/userservice/resource/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-user-service/src/main/java/com/sepro/userservice/resource/RegistrationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-user-service/src/main/java/com/sepro/userservice/validation/PasswordMatchesValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-user-service/src/main/java/com/sepro/userservice/validation/PasswordMatchesValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sepro-user-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sepro-user-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/some note.rtf" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/dto/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,175 +86,243 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hairdresser-module/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dto/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="16" selection-start-line="11" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sepro-customer-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="579">
+              <caret line="71" column="34" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/dto/UserDto.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/dto/PartnerList.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/dto/PartnerDto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-security-client/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/service/CustomerService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="375">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user-service1111/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sePro-db-service/src/main/java/com/sepro/dbservice/entity/DbInit.java">
+        <entry file="file://$PROJECT_DIR$/dto/src/main/java/user/CustomerDto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+            <state relative-caret-position="285">
+              <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user-service1111/src/main/java/com/sepro/Userservice/config/ResourceServerConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-security-client/src/main/java/com/techprimers/security/springsecurityclient/util/CustomUserAuthenticationConverter.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api-getway-service/src/main/java/com/sepro/apigetwayservice/ApiGetwayServiceApplication.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-security-client/src/main/java/com/techprimers/security/springsecurityclient/SpringSecurityClientApplication.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-security-client/src/main/java/com/techprimers/security/springsecurityclient/model/CustomPrincipal.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-security-client/src/main/java/com/techprimers/security/springsecurityclient/config/OauthConfig.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-security-client/src/main/java/com/techprimers/security/springsecurityclient/config/WebConfig.java">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Qualifier</find>
-      <find>@qua</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sepro-customer-service" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sePro_docker/database/database-users.dockerfile" />
-        <option value="$PROJECT_DIR$/sePro_docker/app.dockerfile" />
-        <option value="$PROJECT_DIR$/sePro_docker/docker-compose.yml" />
-        <option value="$PROJECT_DIR$/sePro_docker/vhost.conf" />
+        <option value="$PROJECT_DIR$/sepro-customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dto/src/main/java/user/PartnerDto.java" />
+        <option value="$PROJECT_DIR$/dto/src/main/java/user/CustomerDto.java" />
+        <option value="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/example/customerservice/service/CustomerService.java" />
+        <option value="$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/service/CustomerService.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="sepro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
               <item name="sepro" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="sepro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
               <item name="sepro" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-client" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="sepro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
               <item name="sepro" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-client" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="sepro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
               <item name="sepro" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sepro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sepro" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sepro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sepro" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service1111" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sepro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sepro" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service1111" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sepro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sepro" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service1111" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="sepro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
               <item name="sepro" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service1111" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sepro" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sepro" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sepro" type="462c0819:PsiDirectoryNode" />
+              <item name="hairdresser-module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sepro" type="462c0819:PsiDirectoryNode" />
+              <item name="sepro-customer-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sepro" type="462c0819:PsiDirectoryNode" />
+              <item name="sepro-customer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sepro" type="462c0819:PsiDirectoryNode" />
+              <item name="sepro-customer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sepro" type="462c0819:PsiDirectoryNode" />
+              <item name="sepro-customer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sepro" type="462c0819:PsiDirectoryNode" />
+              <item name="sepro-customer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sepro" type="462c0819:PsiDirectoryNode" />
+              <item name="sepro-customer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sepro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sepro" type="462c0819:PsiDirectoryNode" />
+              <item name="sepro-customer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sepro" type="462c0819:PsiDirectoryNode" />
+              <item name="customerservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sepro" type="462c0819:PsiDirectoryNode" />
+              <item name="sepro-customer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sepro" type="462c0819:PsiDirectoryNode" />
+              <item name="customerservice" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563914032287" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565685348725" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/sePro_docker/database" />
+      <recent name="$PROJECT_DIR$/dto/src/main/java/user" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -215,33 +342,35 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bfda5c44-4408-424c-9cf3-07b1679316d1" name="Default Changelist" comment="" />
-      <created>1562581749649</created>
+      <changelist id="ca4daafa-b599-498f-8d71-27d6c970aed1" name="Default Changelist" comment="" />
+      <created>1565683064751</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562581749649</updated>
-      <workItem from="1562581750776" duration="38000" />
-      <workItem from="1562581798727" duration="8108000" />
-      <workItem from="1563650225471" duration="7377000" />
+      <updated>1565683064751</updated>
+      <workItem from="1565683067015" duration="2185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15523000" />
+    <option name="totallyTimeSpent" value="2185000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
       <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
       <window_info id="UI Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3279483" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Stack trace to UML" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -249,17 +378,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="MagicentoScripts" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -269,132 +393,60 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitmodules">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sePro_docker/qdocker-compose" />
-    <entry file="file://$PROJECT_DIR$/sePro_docker/apache-config.conf" />
-    <entry file="file://$PROJECT_DIR$/sePro_docker/apachee" />
-    <entry file="file://$PROJECT_DIR$/sePro_docker/docker-compose 2.yml" />
-    <entry file="file://$PROJECT_DIR$/sePro_docker/database/conf.d">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sePro_docker/database/backup.sql">
+    <entry file="file://$PROJECT_DIR$/hairdresser-module/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sePro_docker/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sepro-partner-app/.env" />
-    <entry file="file://$PROJECT_DIR$/sePro_docker/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="37" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sePro_docker/app.dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sePro_docker/web.dockerfile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sePro_docker/vhost.conf">
+    <entry file="file://$PROJECT_DIR$/dto/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <caret line="11" column="16" selection-start-line="11" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sePro_docker/database/databasedata.dockerfile">
+    <entry file="file://$PROJECT_DIR$/dto/src/main/java/user/PartnerDto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sePro_docker/database/databaseusers.dockerfile">
+    <entry file="file://$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/dto/UserDto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/dto/PartnerList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/dto/PartnerDto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/getway-service-demo/src/main/java/com/sepro/getwayservice/config/SecurityConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api-getway-service/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api-getway-service/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getway-service/src/main/java/com/sepro/getwayservice/config/JwtAuthorizationFilter.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getway-service/src/main/java/com/sepro/getwayservice/config/JwtAuthenticationFilter.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getway-service/src/main/java/com/sepro/getwayservice/config/AuthorizationServerConfig.java">
+    <entry file="file://$PROJECT_DIR$/dto/src/main/java/user/CustomerDto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api-getway-service/src/main/java/com/sepro/apigetwayservice/ApiGetwayServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-service1111/src/main/java/com/sepro/Userservice/config/WebMvcConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="18" column="60" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="60" />
+        <state relative-caret-position="285">
+          <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user-service1111/src/main/java/com/sepro/Userservice/config/ResourceServerConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-service1111/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-security-client/src/main/java/com/techprimers/security/springsecurityclient/config/OauthConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-security-client/src/main/java/com/techprimers/security/springsecurityclient/config/WebConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-security-client/src/main/java/com/techprimers/security/springsecurityclient/model/CustomPrincipal.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-security-client/src/main/java/com/techprimers/security/springsecurityclient/util/CustomUserAuthenticationConverter.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-security-client/src/main/java/com/techprimers/security/springsecurityclient/SpringSecurityClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sePro-db-service/src/main/java/com/sepro/dbservice/entity/DbInit.java">
+    <entry file="file://$PROJECT_DIR$/sepro-customer-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        <state relative-caret-position="579">
+          <caret line="71" column="34" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-security-client/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/sepro-customer-service/src/main/java/com/sepro/customerservice/service/CustomerService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="375">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

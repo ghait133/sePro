@@ -1,24 +1,6 @@
-[submodule "sePro-db-service"]
-	path = sePro-db-service
-	url = https://github.com/ghait133/sePro-db-service.git
-[submodule "sePro_docker"]
-	path = sePro_docker
-	url = https://github.com/ghait133/sePro_docker.git
-[submodule "sepro-registry-service"]
-	path = sepro-registry-service
-	url = https://github.com/ghait133/sepro-registry-service.git
-[submodule "sepro-ui"]
-	path = sepro-ui
-	url = https://github.com/ghait133/sepro-ui.git
-[submodule "sepro-api-getway-service"]
-	path = sepro-api-getway-service
-	url = https://github.com/ghait133/sepro-api-getway-service.git
-[submodule "sepro-authorization-server"]
-	path = sepro-authorization-server
-	url = https://github.com/ghait133/sepro-authorization-server.git
-[submodule "sepro-user-service"]
-	path = sepro-user-service
-	url = https://github.com/ghait133/sepro-user-service.git
-[submodule "sepro-partner-service"]
-	path = sepro-partner-service
-	url = https://github.com/ghait133/sepro-partner-service.git
+[submodule "hairdresser-module"]
+	path = hairdresser-module
+	url = https://github.com/ghait133/hairdresser-module.git
+[submodule "sepro-appointment-service"]
+	path = sepro-appointment-service
+	url = https://github.com/ghait133/sepro-appointment-service.git
