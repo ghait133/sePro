@@ -31,3 +31,6 @@
 [submodule "sepro-appointment-service"]
 	path = sepro-appointment-service
 	url = https://github.com/ghait133/sepro-appointment-service.git
+[submodule "sePro-employee-service"]
+	path = sePro-employee-service
+	url = https://github.com/ghait133/sePro-employee-service.git
